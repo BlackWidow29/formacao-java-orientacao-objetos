@@ -10,7 +10,7 @@
 
 <a id="curso01"></a>
 
-* Java JRE e JDK: Escreva o seu primeiro código com Eclipse
+### Java JRE e JDK: Escreva o seu primeiro código com Eclipse
 
 [Código fonte](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/Java%20JRE%20e%20JDK%3A%20Escreva%20o%20seu%20primeiro%20c%C3%B3digo%20com%20Eclipse/)
 
