@@ -18,8 +18,8 @@
 
 - Aula 1 - O que é Java?
 - Aula 2 - Instalação e o primeiro programa
-* Aula 3 - Começando com eclipse
-* Aula 4 - Tipos e variáveis
-* Aula 5 - Trabalhando com caracteres
-* Aula 6 - Praticando condicionais
-* Aula 7 - Controlando fluxos com laços
+- Aula 3 - Começando com eclipse
+- Aula 4 - Tipos e variáveis
+- Aula 5 - Trabalhando com caracteres
+- Aula 6 - Praticando condicionais
+- Aula 7 - Controlando fluxos com laços
