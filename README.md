@@ -12,14 +12,14 @@
 
 ### Java JRE e JDK: Escreva o seu primeiro código com Eclipse
 
-[Código fonte](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/Java%20JRE%20e%20JDK%3A%20Escreva%20o%20seu%20primeiro%20c%C3%B3digo%20com%20Eclipse/)
+[Código fonte](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/)
 
 * Tópicos do curso
 
 - Aula 1 - O que é Java?
-- Aula 2 - Instalação e o primeiro programa
-- Aula 3 - Começando com eclipse
-- Aula 4 - Tipos e variáveis
+- [Aula 2 - Instalação e o primeiro programa](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/Aula%202)
+- [Aula 3 - Começando com eclipse](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/Aula%203)
+- [Aula 4 - Tipos e variáveis](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/Aula%204)
 - Aula 5 - Trabalhando com caracteres
 - Aula 6 - Praticando condicionais
 - Aula 7 - Controlando fluxos com laços
