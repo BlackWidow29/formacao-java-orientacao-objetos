@@ -6,6 +6,7 @@
 ## Cursos
 
 - [Java JRE e JDK: Escreva o seu primeiro código com Eclipse](#curso01)
+- [Java OO: Introdução à Orientação a Objetos](#curso02)
 
 
 <a id="curso01"></a>
@@ -20,6 +21,22 @@
 - [Aula 2 - Instalação e o primeiro programa](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/Aula%202)
 - [Aula 3 - Começando com eclipse](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/Aula%203)
 - [Aula 4 - Tipos e variáveis](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/Aula%204)
-- Aula 5 - Trabalhando com caracteres
-- Aula 6 - Praticando condicionais
-- Aula 7 - Controlando fluxos com laços
+- [Aula 5 - Trabalhando com caracteres](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/Aula%205)
+- [Aula 6 - Praticando condicionais](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/Aula%206)
+- [Aula 7 - Controlando fluxos com laços](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-jre-e-jdk-escreva-o-seu-primeiro-codigo-com-eclipse/Aula%207)
+
+
+<a id="curso02"></a>
+
+### Java OO: Introdução à Orientação a Objetos
+
+- [Código fonte](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/master/java-oo-introducao-orientacao-objetos)
+
+* Tópicos do curso
+
+- O problema do paradigma procedural
+- [Introdução a orientação a objetos](https://gitlab.com/isabellydias29/formacao-java-orientacao-objetos/-/tree/6fb7d5c292a296f510596c810ee5d231e492fce0/java-oo-introducao-orientacao-objetos)
+- Definindo comportamento
+- Composição de objetos
+- Encapsulamento e visibilidade
+- Construtores e membros estáticos
